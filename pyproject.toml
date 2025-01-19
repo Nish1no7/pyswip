@@ -7,7 +7,7 @@ name = "pyswip"
 version = "0.3.2"
 description = "PySwip enables querying SWI-Prolog in your Python programs."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.8"
 authors = [
     { name = "Yuce Tekol", email = "yucetekol@gmail.com" },
 ]
